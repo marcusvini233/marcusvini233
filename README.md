@@ -1,6 +1,6 @@
 ## Hello, I'm Marcus Vinicius!!!
 - 💻 Not working directly with technology yet 
-- 📚 I’m currently learning Python, SQL and a bit of Ruby
+- 📚 I’m currently studying Python, SQL and a bit of Ruby
 - 📫 Contact me by email on: marcusacaciobastos@gmail.com
 
 
